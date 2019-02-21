@@ -1,3 +1,5 @@
+/* global require __dirname module */
+
 let path = require('path');
 
 let conf = {
